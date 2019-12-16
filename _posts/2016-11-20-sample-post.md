@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 categories: posts
 title: Sample Post
 subtitle: This is a test post.
