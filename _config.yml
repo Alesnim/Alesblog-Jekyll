@@ -15,6 +15,7 @@ gems:
   - jekyll-scholar
   - liquid_reading_time
   - jekyll-contentblocks
+  - premonition
 
 sass:
   sass_dir: _sass
