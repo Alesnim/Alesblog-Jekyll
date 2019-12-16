@@ -46,8 +46,12 @@
             </h3>
 
             <hr>
-            {% capture time %}{{ content | reading_time }}{% endcapture %}
-            <p>This article will take {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} to read.</p>
+            
+            <div class="reading_time">
+                {% capture time %}{{ content | reading_time }}{% endcapture %}
+                <p>Прочитать эту заметку займет {{ time }} {% if time == '1' %}минуту{% else %}минуты{% endif %}</p>
+            </div>
+            
 
             <!-- POST CONTENT -->
             <div class="entry-content">
