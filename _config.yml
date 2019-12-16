@@ -14,6 +14,7 @@ gems:
   - jekyll-feed
   - jekyll-scholar
   - liquid_reading_time
+  - jekyll-contentblocks
 
 sass:
   sass_dir: _sass
