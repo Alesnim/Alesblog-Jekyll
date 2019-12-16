@@ -4,7 +4,7 @@ categories: posts
 title: Hello World, или даже Добрый день
 tags: [ something, life, for_future]
 date-string: ДЕКАБРЬ 16, 2019
-
+featured-image: /images/2019-12-16/prevue.jpg
 
 ---
 
