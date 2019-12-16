@@ -12,6 +12,8 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+  - jekyll-scholar
+  - liquid_reading_time
 
 sass:
   sass_dir: _sass
