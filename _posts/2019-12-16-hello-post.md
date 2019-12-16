@@ -40,4 +40,5 @@ Cам сайт сделан на движке генератора статич�
 
 
 
-<div class="admonition">Некоторый текст в странной рамочке</div>
+> warning "I am a warning"
+> The body of the warning goes here. Premonition allows you to write any `Markdown` inside the block.
