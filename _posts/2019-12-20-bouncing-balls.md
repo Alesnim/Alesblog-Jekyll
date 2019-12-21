@@ -4,7 +4,7 @@ categories: posts, tutorial
 title: Мир прыгающих шаров. Это не то что вы думаете. Часть 1 [Перевод]
 tags: [ tutorial, translate, Java, Swing, GameDev]
 date-string: ДЕКАБРЬ 20, 2019
-featured-image: /images/2019-12-20/GameBall_Ex.png
+featured-image: /images/2019-12-20/prevue.jpg
 
 ---
 
