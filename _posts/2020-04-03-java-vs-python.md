@@ -4,7 +4,7 @@ categories: posts, note
 title: Почему Java более многословна, чем Python?
 tags: [ translate, Java, Python, note]
 date-string: АПРЕЛЬ 3, 2020
-featured-image: /images/2020-04-03/cover.png
+featured-image: /images/2020-04-03/cover.jpeg
 
 ---
 

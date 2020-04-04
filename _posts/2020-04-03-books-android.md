@@ -4,7 +4,7 @@ categories: posts, note
 title: Что почитать Android-разработчику во время каникул
 tags: [Java, Android, note]
 date-string: АПРЕЛЬ 4, 2020
-featured-image: /images/2020-04-04/cover.png
+featured-image: /images/2020-04-04/cover.jpeg
 
 ---
 
